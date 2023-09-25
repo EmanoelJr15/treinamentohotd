@@ -1,0 +1,166 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.westeros {
+    margin-left: 15px;
+    display: flex;
+    color: white;
+}
+
+label {
+    color: white;
+    display: flex;
+    justify-content: end;
+}
+
+.caraxes1 {
+    width: 400px;
+    height: 380px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+}
+
+
+.p1 {
+    width: 500px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+
+div {
+    margin: 100px;
+}
+
+
+h1 {
+    line-height: 350px;
+    font-size: 80px;
+    text-align: center;
+    color: white;
+}
+
+#caraxesid {
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+
+#descricao {
+    font-size: 40px;
+    text-align: center;
+    line-height: 250px;
+    color: white;
+}
+
+.p2 {
+    width: 500px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+
+.div1 {
+    margin: 100px;
+}
+
+.caraxes2 {
+    width: 400px;
+    height: 350px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 25px;
+}
+
+#caraxesid2 {
+   font-size: 40px;
+   text-align: center;
+   line-height: 250px;
+   color: white;
+}
+
+.p3 {
+    width: 500px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+
+.caraxes3 {
+    width: 522px;
+    height: 350px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 25px;
+}
+
+.div2 {
+    margin: 100px;
+}
+
+#caraxesid3 {
+    font-size: 40px;
+    text-align: center;
+    line-height: 250px;
+    color: white;
+}
+
+.p4 {
+    width: 500px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+
+.caraxes4 {
+    width: 450px;
+    height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+}
+
+video {
+    width: 500px;
+    height: 350px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dev {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: gray;
+    width: 120px;
+    justify-content: space-between;
+}
+
+.footer {
+    display: flex;
+    background-color: rgb(219, 213, 213);
+}
+
+body {
+    background-image: url(./1294170.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
